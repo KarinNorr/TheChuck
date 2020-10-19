@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "a5ww82vAydllthdddNb+yKtd8fZK4oqQE6WWl0a9Rq6RK0EHdNN5BAl9h1sWwHAlIDGJ0WaCnzly9UVnHJLxGw==",
+  "success": true,
+  "projectFilePath": "/Users/karinnorrlander/Documents/Documents/2019/SYSTEMUTVECKLING/TheChuck/TheChuck/TheChuck/TheChuck.csproj",
+  "expectedPackageFiles": [
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/karinnorrlander/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/karinnorrlander/.nuget/packages/xamarin.forms/4.6.0.1141/xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}
