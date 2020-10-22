@@ -1,5 +1,44 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="TheChuck.Pages.CategoryPage">
     <ContentPage.Content>
+        <StackLayout>
+
+            <Frame BackgroundColor="MediumAquamarine" Padding="24" CornerRadius="0"
+                   HasShadow="False">
+                <Label Text="{Binding Category}"
+                   HorizontalTextAlignment="Center"
+                   TextColor="White"
+                   FontSize="36" />
+            </Frame>
+
+            <Label Text=" { Binding Joke}"
+                   HorizontalOptions="StartAndExpand"
+                   Padding="5">
+
+            </Label>
+                <Frame
+                    HasShadow="False"
+                    BackgroundColor="LightGray"
+                    CornerRadius="0">
+                    <Grid>
+                        <Label Text="SAVE JOKE AS FAVOURITE!">
+                        </Label>
+                        <Switch
+                                x:Name="MakeFavourite"
+                                IsToggled="{Binding IsToggled}"
+                                Grid.Column="1"
+                                HorizontalOptions="End"
+                                Toggled="Switch_Toggled"
+                                />
+                    </Grid>
+                </Frame>
+
+
+            <Button Text="Load another one!"
+                    VerticalOptions="End"
+                    
+                    Command="{Binding GetRandomFromCategoryCommand}">
+            </Button>
+        </StackLayout>
     </ContentPage.Content>
 </ContentPage>
