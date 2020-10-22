@@ -1,0 +1,17 @@
+/Users/karinnorrlander/Documents/Documents/2019/SYSTEMUTVECKLING/TheChuck/TheChuck/TheChuck/bin/Debug/netstandard2.0/TheChuck.deps.json
+/Users/karinnorrlander/Documents/Documents/2019/SYSTEMUTVECKLING/TheChuck/TheChuck/TheChuck/bin/Debug/netstandard2.0/TheChuck.dll
+/Users/karinnorrlander/Documents/Documents/2019/SYSTEMUTVECKLING/TheChuck/TheChuck/TheChuck/bin/Debug/netstandard2.0/ref/TheChuck.dll
+/Users/karinnorrlander/Documents/Documents/2019/SYSTEMUTVECKLING/TheChuck/TheChuck/TheChuck/bin/Debug/netstandard2.0/TheChuck.pdb
+/Users/karinnorrlander/Documents/Documents/2019/SYSTEMUTVECKLING/TheChuck/TheChuck/TheChuck/obj/Debug/netstandard2.0/TheChuck.csprojAssemblyReference.cache
+/Users/karinnorrlander/Documents/Documents/2019/SYSTEMUTVECKLING/TheChuck/TheChuck/TheChuck/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/karinnorrlander/Documents/Documents/2019/SYSTEMUTVECKLING/TheChuck/TheChuck/TheChuck/obj/Debug/netstandard2.0/Pages/CategoryPage.xaml.g.cs
+/Users/karinnorrlander/Documents/Documents/2019/SYSTEMUTVECKLING/TheChuck/TheChuck/TheChuck/obj/Debug/netstandard2.0/Pages/MainPage.xaml.g.cs
+/Users/karinnorrlander/Documents/Documents/2019/SYSTEMUTVECKLING/TheChuck/TheChuck/TheChuck/obj/Debug/netstandard2.0/Pages/SearchPage.xaml.g.cs
+/Users/karinnorrlander/Documents/Documents/2019/SYSTEMUTVECKLING/TheChuck/TheChuck/TheChuck/obj/Debug/netstandard2.0/TheChuck.AssemblyInfoInputs.cache
+/Users/karinnorrlander/Documents/Documents/2019/SYSTEMUTVECKLING/TheChuck/TheChuck/TheChuck/obj/Debug/netstandard2.0/TheChuck.AssemblyInfo.cs
+/Users/karinnorrlander/Documents/Documents/2019/SYSTEMUTVECKLING/TheChuck/TheChuck/TheChuck/obj/Debug/netstandard2.0/TheChuck.csproj.CoreCompileInputs.cache
+/Users/karinnorrlander/Documents/Documents/2019/SYSTEMUTVECKLING/TheChuck/TheChuck/TheChuck/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/karinnorrlander/Documents/Documents/2019/SYSTEMUTVECKLING/TheChuck/TheChuck/TheChuck/obj/Debug/netstandard2.0/TheChuck.dll
+/Users/karinnorrlander/Documents/Documents/2019/SYSTEMUTVECKLING/TheChuck/TheChuck/TheChuck/obj/Debug/netstandard2.0/ref/TheChuck.dll
+/Users/karinnorrlander/Documents/Documents/2019/SYSTEMUTVECKLING/TheChuck/TheChuck/TheChuck/obj/Debug/netstandard2.0/TheChuck.pdb
+/Users/karinnorrlander/Documents/Documents/2019/SYSTEMUTVECKLING/TheChuck/TheChuck/TheChuck/obj/Debug/netstandard2.0/Pages/FavouritePage.xaml.g.cs
