@@ -32,7 +32,6 @@ namespace TheChuck.ViewModels
             foreach (Favourite favvo in deleateFromFavourites)
             {
                 var result = await App.Database.DeleteFavouritesAsync(favvo);
-
             }
             LoadFavouritesCommand.Execute(this);
         }

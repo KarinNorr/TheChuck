@@ -30,7 +30,7 @@
                 </ListView.ItemTemplate>
             </ListView>
 
-            <Button Text="SAVE"
+            <Button Text="SAVE CHANGES!"
                     Command="{Binding UpdateFavouritesCommand}">
 
             </Button>

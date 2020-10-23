@@ -1,44 +1,43 @@
 ﻿<Properties StartupConfiguration="{B4937BD1-AAD7-4270-BA83-BF39F46AFC97}|Default">
+  <MonoDevelop.Ide.ItemProperties.TheChuckTests FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.TheChuck.Android PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="TheChuck/Services/INavigationService.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TheChuck/ViewModels/MainPageViewModel.cs">
     <Files>
-      <File FileName="TheChuck/Pages/FavouritePage.xaml" Line="34" Column="62" />
-      <File FileName="TheChuck/Pages/SearchPage.xaml" Line="36" Column="44" />
-      <File FileName="TheChuck/Pages/SearchPage.xaml.cs" Line="29" Column="14" />
-      <File FileName="TheChuck/Pages/MainPage.xaml.cs" Line="1" Column="1" />
-      <File FileName="TheChuck/ViewModels/CategoryPageViewModel.cs" Line="96" Column="44" />
-      <File FileName="TheChuck/Pages/CategoryPage.xaml" Line="30" Column="56" />
-      <File FileName="TheChuck/Pages/CategoryPage.xaml.cs" Line="22" Column="14" />
-      <File FileName="TheChuck/Pages/FavouritePage.xaml.cs" Line="32" Column="6" />
-      <File FileName="TheChuck/ViewModels/FavouritePageViewModel.cs" Line="47" Column="10" />
-      <File FileName="TheChuck.iOS/Main.cs" Line="6" Column="13" />
-      <File FileName="TheChuck/Services/DTOJoke.cs" Line="1" Column="1" />
-      <File FileName="TheChuck/Services/DataBaseService.cs" Line="8" Column="44" />
-      <File FileName="TheChuck/ViewModels/SearchPageViewModel.cs" Line="30" Column="1" />
-      <File FileName="TheChuck/Services/IDataBaseService.cs" Line="14" Column="1" />
-      <File FileName="TheChuck/Services/INavigationService.cs" Line="14" Column="1" />
+      <File FileName="TheChuckUnitTests/UnitTest1.cs" Line="10" Column="10" />
+      <File FileName="TheChuck/Services/ApiService.cs" Line="1" Column="1" />
+      <File FileName="TheChuckUnitTests/ViewModels/MainPageViewModelTests.cs" Line="8" Column="1" />
+      <File FileName="TheChuckUnitTests/ViewModels/CategoryPageViewModelTest.cs" Line="11" Column="1" />
+      <File FileName="TheChuckUnitTests/ViewModels/SearchPageViewModelTests.cs" Line="11" Column="1" />
+      <File FileName="TheChuck/ViewModels/MainPageViewModel.cs" Line="43" Column="43" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="TheChuck" expanded="True">
             <Node name="TheChuck" expanded="True">
-              <Node name="Services" expanded="True">
-                <Node name="INavigationService.cs" selected="True" />
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Pages" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="ViewModels" expanded="True">
+                <Node name="MainPageViewModel.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="TheChuckUnitTests" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
               </Node>
               <Node name="ViewModels" expanded="True" />
             </Node>
-            <Node name="TheChuck.iOS" expanded="True" />
           </Node>
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.TheChuck.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.41845C85-B3B3-4173-8781-B885867B5CAC" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TheChuckUnitTests FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
