@@ -1,30 +1,25 @@
 ﻿<Properties StartupConfiguration="{B4937BD1-AAD7-4270-BA83-BF39F46AFC97}|Default">
-  <MonoDevelop.Ide.ItemProperties.TheChuckTests FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.TheChuck.Android PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="TheChuck/ViewModels/MainPageViewModel.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TheChuckUnitTests/ViewModels/MainPageViewModelTests.cs">
     <Files>
-      <File FileName="TheChuckUnitTests/UnitTest1.cs" Line="10" Column="10" />
-      <File FileName="TheChuck/Services/ApiService.cs" Line="1" Column="1" />
-      <File FileName="TheChuckUnitTests/ViewModels/MainPageViewModelTests.cs" Line="8" Column="1" />
+      <File FileName="TheChuckUnitTests/ViewModels/MainPageViewModelTests.cs" Line="11" Column="6" />
       <File FileName="TheChuckUnitTests/ViewModels/CategoryPageViewModelTest.cs" Line="11" Column="1" />
       <File FileName="TheChuckUnitTests/ViewModels/SearchPageViewModelTests.cs" Line="11" Column="1" />
-      <File FileName="TheChuck/ViewModels/MainPageViewModel.cs" Line="43" Column="43" />
+      <File FileName="TheChuck/ViewModels/MainPageViewModel.cs" Line="32" Column="28" />
+      <File FileName="TheChuck/Mocks/ApiServiceMock.cs" Line="30" Column="56" />
+      <File FileName="TheChuck/Services/DTOJoke.cs" Line="12" Column="29" />
+      <File FileName="TheChuck/Mocks/NavigationServiceMock.cs" Line="17" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="TheChuck" expanded="True">
             <Node name="TheChuck" expanded="True">
-              <Node name="Dependencies" expanded="True">
-                <Node name="PackageDependencies" expanded="True" />
-              </Node>
-              <Node name="Pages" expanded="True" />
+              <Node name="Mocks" expanded="True" />
               <Node name="Services" expanded="True" />
-              <Node name="ViewModels" expanded="True">
-                <Node name="MainPageViewModel.cs" selected="True" />
-              </Node>
+              <Node name="ViewModels" expanded="True" />
             </Node>
-            <Node name="TheChuckUnitTests" expanded="True">
+            <Node name="TheChuckUnitTests" expanded="True" selected="True">
               <Node name="Dependencies" expanded="True">
                 <Node name="PackageDependencies" expanded="True" />
               </Node>
@@ -37,7 +32,6 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.TheChuck.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.41845C85-B3B3-4173-8781-B885867B5CAC" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.TheChuckUnitTests FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>

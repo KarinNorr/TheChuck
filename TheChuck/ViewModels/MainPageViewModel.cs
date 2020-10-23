@@ -14,15 +14,15 @@ namespace TheChuck.ViewModels
         private ObservableCollection<String> categories = new ObservableCollection<String>();
 
         public ICommand GoToSearchPageCommand { get; }
-        public ICommand LoadCommad { get;  }
+        public ICommand LoadCommand { get;  }
         public ICommand GoToCategoryCommand { get; }
 
         public MainPageViewModel()
         {
             GoToSearchPageCommand = new Command(async () => await navigationService.GoToSearchPage());
-            LoadCommad = new Command(async () => await LoadCategories());
+            LoadCommand = new Command(async () => await LoadCategories());
             GoToCategoryCommand = new Command<string>(async (category) => await navigationService.GoToCategoryPage(category));
-            LoadCommad.Execute(this);
+            LoadCommand.Execute(this);
         }
 
         public ObservableCollection<String> Categories { get => categories; }
