@@ -1,0 +1,12 @@
+/Users/karinnorrlander/Documents/Documents/2019/SYSTEMUTVECKLING/TheChuck/TheChuck/TheChuckTests/bin/Debug/TheChuckTests.dll
+/Users/karinnorrlander/Documents/Documents/2019/SYSTEMUTVECKLING/TheChuck/TheChuck/TheChuckTests/bin/Debug/TheChuckTests.pdb
+/Users/karinnorrlander/Documents/Documents/2019/SYSTEMUTVECKLING/TheChuck/TheChuck/TheChuckTests/bin/Debug/nunit.framework.dll
+/Users/karinnorrlander/Documents/Documents/2019/SYSTEMUTVECKLING/TheChuck/TheChuck/TheChuckTests/bin/Debug/Xamarin.UITest.dll
+/Users/karinnorrlander/Documents/Documents/2019/SYSTEMUTVECKLING/TheChuck/TheChuck/TheChuckTests/bin/Debug/nunit.framework.pdb
+/Users/karinnorrlander/Documents/Documents/2019/SYSTEMUTVECKLING/TheChuck/TheChuck/TheChuckTests/bin/Debug/nunit.framework.xml
+/Users/karinnorrlander/Documents/Documents/2019/SYSTEMUTVECKLING/TheChuck/TheChuck/TheChuckTests/bin/Debug/Xamarin.UITest.xml
+/Users/karinnorrlander/Documents/Documents/2019/SYSTEMUTVECKLING/TheChuck/TheChuck/TheChuckTests/obj/Debug/TheChuckTests.csprojAssemblyReference.cache
+/Users/karinnorrlander/Documents/Documents/2019/SYSTEMUTVECKLING/TheChuck/TheChuck/TheChuckTests/obj/Debug/TheChuckTests.csproj.CoreCompileInputs.cache
+/Users/karinnorrlander/Documents/Documents/2019/SYSTEMUTVECKLING/TheChuck/TheChuck/TheChuckTests/obj/Debug/TheChuckTests.csproj.CopyComplete
+/Users/karinnorrlander/Documents/Documents/2019/SYSTEMUTVECKLING/TheChuck/TheChuck/TheChuckTests/obj/Debug/TheChuckTests.dll
+/Users/karinnorrlander/Documents/Documents/2019/SYSTEMUTVECKLING/TheChuck/TheChuck/TheChuckTests/obj/Debug/TheChuckTests.pdb
