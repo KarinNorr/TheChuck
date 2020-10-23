@@ -33,10 +33,6 @@ namespace TheChuck.Services
                 if (favourite != null)
                 {
                     return databaseConnection.DeleteAsync(favourite);
-                    //foreach (Favourite favor in favourites)
-                    //{
-                    //    return databaseConnection.DeleteAsync(favor);
-                    //}
                 }
             }
             catch {  }

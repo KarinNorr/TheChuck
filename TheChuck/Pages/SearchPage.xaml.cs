@@ -7,12 +7,12 @@ namespace TheChuck.Pages
 {
     public partial class SearchPage : ContentPage
     {
-        SearchPageViewModel viewModel;
+        CatygoryPageViewModel viewModel;
 
         public SearchPage()
         {
             InitializeComponent();
-            BindingContext = viewModel = new SearchPageViewModel();
+            BindingContext = viewModel = new CatygoryPageViewModel();
         }
 
         void ListView_ItemTapped(object sender, ItemTappedEventArgs e)

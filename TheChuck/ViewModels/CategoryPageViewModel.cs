@@ -12,7 +12,6 @@ namespace TheChuck.ViewModels
         private string category = string.Empty;
         private string joke = string.Empty;
         private bool isToggled = false; 
-        //private Favourite jokeToMakeFavourite;
 
         public ICommand GetRandomFromCategoryCommand { get; }
         public ICommand SaveAsFavouriteCommand { get;  }
@@ -67,22 +66,6 @@ namespace TheChuck.ViewModels
             }
         }
 
-        //public Favourite JokeToMakeFavourite
-        //{
-        //    get => JokeToMakeFavourite;
-        //    set
-        //    {
-        //        if (jokeToMakeFavourite != null)
-        //        {
-        //            jokeToMakeFavourite = value;
-        //            OnPropertyChanged();
-        //        }
-        //    }
-        //}
-
-
-
-        //Måste sätta IsToggle till false när en ny laddas
 
         public async Task LoadRandomFromCategory(string category)
         {
@@ -95,11 +78,7 @@ namespace TheChuck.ViewModels
 
                 this.Joke = response.Value;
                 this.IsToggled = false;
-                //this.JokeToMakeFavourite = favourite;
                 OnPropertyChanged();
-                
-
-
             }
             catch {   }
             finally {   }
@@ -113,7 +92,6 @@ namespace TheChuck.ViewModels
             });
 
             IsToggled = true;
-            Console.WriteLine("Testar om det läggs till: " + joke);
         }
     }
 }
