@@ -8,7 +8,7 @@ using Xamarin.Forms;
 
 namespace TheChuck.ViewModels
 {
-    public class FavouritePageViewModel
+    public class FavouritePageViewModel : BaseViewModel
     {
         //favoriterna har också ett id ifall jag behöver för att ta bort dem sedan från favoritlistan
         private ObservableCollection<Favourite> favourites = new ObservableCollection<Favourite>();
@@ -27,7 +27,7 @@ namespace TheChuck.ViewModels
             LoadFavouritesCommand.Execute(this);
         }
 
-        private async Task DeleteFromFavourites()
+        public async Task DeleteFromFavourites()
         {
             foreach (Favourite favvo in deleateFromFavourites)
             {
