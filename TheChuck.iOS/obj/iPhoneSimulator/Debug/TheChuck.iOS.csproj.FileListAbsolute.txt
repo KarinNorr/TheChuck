@@ -46,12 +46,6 @@
 /Users/karinnorrlander/Documents/Documents/2019/SYSTEMUTVECKLING/TheChuck/TheChuck/TheChuck.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
 /Users/karinnorrlander/Documents/Documents/2019/SYSTEMUTVECKLING/TheChuck/TheChuck/TheChuck.iOS/bin/iPhoneSimulator/Debug/TheChuck.pdb
 /Users/karinnorrlander/Documents/Documents/2019/SYSTEMUTVECKLING/TheChuck/TheChuck/TheChuck.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
-/Users/karinnorrlander/Documents/Documents/2019/SYSTEMUTVECKLING/TheChuck/TheChuck/TheChuck.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.0/ibtool/_BundleResourceWithLogicalName.items
-/Users/karinnorrlander/Documents/Documents/2019/SYSTEMUTVECKLING/TheChuck/TheChuck/TheChuck.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.0/actool/_PartialAppManifest.items
-/Users/karinnorrlander/Documents/Documents/2019/SYSTEMUTVECKLING/TheChuck/TheChuck/TheChuck.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.0/actool/_BundleResourceWithLogicalName.items
-/Users/karinnorrlander/Documents/Documents/2019/SYSTEMUTVECKLING/TheChuck/TheChuck/TheChuck.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.0/coremlc/_PartialAppManifest.items
-/Users/karinnorrlander/Documents/Documents/2019/SYSTEMUTVECKLING/TheChuck/TheChuck/TheChuck.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.0/coremlc/_BundleResourceWithLogicalName.items
-/Users/karinnorrlander/Documents/Documents/2019/SYSTEMUTVECKLING/TheChuck/TheChuck/TheChuck.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.0/optimized/
 /Users/karinnorrlander/Documents/Documents/2019/SYSTEMUTVECKLING/TheChuck/TheChuck/TheChuck.iOS/obj/iPhoneSimulator/Debug/TheChuck.iOS.csprojAssemblyReference.cache
 /Users/karinnorrlander/Documents/Documents/2019/SYSTEMUTVECKLING/TheChuck/TheChuck/TheChuck.iOS/obj/iPhoneSimulator/Debug/TheChuck.iOS.csproj.CoreCompileInputs.cache
 /Users/karinnorrlander/Documents/Documents/2019/SYSTEMUTVECKLING/TheChuck/TheChuck/TheChuck.iOS/obj/iPhoneSimulator/Debug/XamlC.stamp
@@ -64,3 +58,9 @@
 /Users/karinnorrlander/Documents/Documents/2019/SYSTEMUTVECKLING/TheChuck/TheChuck/TheChuck.iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.core.dll
 /Users/karinnorrlander/Documents/Documents/2019/SYSTEMUTVECKLING/TheChuck/TheChuck/TheChuck.iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.provider.dynamic_cdecl.dll
 /Users/karinnorrlander/Documents/Documents/2019/SYSTEMUTVECKLING/TheChuck/TheChuck/TheChuck.iOS/bin/iPhoneSimulator/Debug/System.Runtime.CompilerServices.Unsafe.dll
+/Users/karinnorrlander/Documents/Documents/2019/SYSTEMUTVECKLING/TheChuck/TheChuck/TheChuck.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/karinnorrlander/Documents/Documents/2019/SYSTEMUTVECKLING/TheChuck/TheChuck/TheChuck.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.1/actool/_PartialAppManifest.items
+/Users/karinnorrlander/Documents/Documents/2019/SYSTEMUTVECKLING/TheChuck/TheChuck/TheChuck.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.1/actool/_BundleResourceWithLogicalName.items
+/Users/karinnorrlander/Documents/Documents/2019/SYSTEMUTVECKLING/TheChuck/TheChuck/TheChuck.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.1/coremlc/_PartialAppManifest.items
+/Users/karinnorrlander/Documents/Documents/2019/SYSTEMUTVECKLING/TheChuck/TheChuck/TheChuck.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.1/coremlc/_BundleResourceWithLogicalName.items
+/Users/karinnorrlander/Documents/Documents/2019/SYSTEMUTVECKLING/TheChuck/TheChuck/TheChuck.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.1/optimized/

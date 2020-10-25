@@ -7,9 +7,7 @@ namespace TheChuck.Mocks
 {
     public class ApiServiceMock : IApiService
     {
-        public ApiServiceMock()
-        {
-        }
+        public int JokeFromqueryCallCount; 
 
         public async Task<List<string>> GetCategories()
         {
@@ -24,10 +22,12 @@ namespace TheChuck.Mocks
             return categorysMock;
         }
 
-        public Task<DTOResultFromQuery> GetJokesFromSearchQuery(string searchresult)
+        public async Task<DTOResultFromQuery> GetJokesFromSearchQuery(string searchresult)
         {
+            JokeFromqueryCallCount++;
+            await Task.Run(() => { });
             return null;
-            //vill returnera att metoden har kallats på
+            
         }
 
 

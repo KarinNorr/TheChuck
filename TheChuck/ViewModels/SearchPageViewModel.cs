@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace TheChuck.ViewModels
 {
-    public class CatygoryPageViewModel : BaseViewModel
+    public class SearchPageViewModel : BaseViewModel
     {
 
         public ICommand SearchForJokeCommand { get; }
@@ -19,7 +19,7 @@ namespace TheChuck.ViewModels
         private string currentJoke = "Här kommer ditt joke att visas";
 
 
-        public CatygoryPageViewModel()
+        public SearchPageViewModel()
         {
             SearchForJokeCommand = new Command<string>(async (text) => await LoadJokes(text));
             GetFavouritesCommand = new Command(async () => await navigationService.GoToFavouritesPage());

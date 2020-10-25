@@ -2,26 +2,33 @@
 using FluentAssertions;
 using Nito.AsyncEx;
 using TheChuck;
+using FakeItEasy;
 using TheChuck.Mocks;
+using TheChuck.Services;
 using TheChuck.ViewModels;
 using Xunit;
+using System.Threading.Tasks;
 
 namespace TheChuckUnitTests.ViewModels
 {
-    public class CategoryPageViewModelTest
+    public class CategoryPageViewModelTest 
     {
 
         [Fact()]
-        public void SaveAsFavourite_()
+        public async Task SaveAsFavourite_Call_To_Database_Should_Not_Return_Null_Async()
         {
             //Arrange
-            var sut = App.Database;
+            var favourite = A.Fake<Favourite>();
+            var sut = A.Fake<IDataBaseService>();
+
 
             //Act
-            sut.SaveFavouriteAsync(null);
+            var result = await sut.SaveFavouriteAsync(favourite);
 
             //Assert
-
+            result.Should().NotBe(null);
+            //result.Should().BeOfType<Task<int>>("because task...", typeof(int));
+            //vad tetsar jag här?
         }
 
 
@@ -46,7 +53,7 @@ namespace TheChuckUnitTests.ViewModels
             var sut = new CategoryPageViewModel(null);
             sut.apiService = new ApiServiceMock();
             sut.navigationService = new NavigationServiceMock();
-            
+
             return sut;
         }
     }

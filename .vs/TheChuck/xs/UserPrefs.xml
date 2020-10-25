@@ -1,18 +1,15 @@
 ﻿<Properties StartupConfiguration="{B4937BD1-AAD7-4270-BA83-BF39F46AFC97}|Default">
   <MonoDevelop.Ide.ItemProperties.TheChuck.Android PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="TheChuckUnitTests/ViewModels/CategoryPageViewModelTest.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TheChuckUnitTests/ViewModels/FavouritePageViewModelTests.cs">
     <Files>
-      <File FileName="TheChuckUnitTests/ViewModels/MainPageViewModelTests.cs" Line="16" Column="22" />
-      <File FileName="TheChuckUnitTests/ViewModels/CategoryPageViewModelTest.cs" Line="50" Column="12" />
-      <File FileName="TheChuckUnitTests/ViewModels/SearchPageViewModelTests.cs" Line="11" Column="1" />
-      <File FileName="TheChuck/Mocks/ApiServiceMock.cs" Line="48" Column="49" />
-      <File FileName="TheChuck/Services/DTOJoke.cs" Line="12" Column="29" />
-      <File FileName="TheChuck/Mocks/NavigationServiceMock.cs" Line="22" Column="36" />
-      <File FileName="TheChuck/ViewModels/CategoryPageViewModel.cs" Line="35" Column="18" />
-      <File FileName="TheChuck/Services/DataBaseService.cs" Line="16" Column="69" />
-      <File FileName="TheChuck/Mocks/DataBaseMock.cs" Line="19" Column="10" />
-      <File FileName="TheChuck/Services/IDataBaseService.cs" Line="14" Column="1" />
-      <File FileName="TheChuck/App.xaml.cs" Line="16" Column="14" />
+      <File FileName="TheChuckUnitTests/ViewModels/MainPageViewModelTests.cs" Line="28" Column="10" />
+      <File FileName="TheChuckUnitTests/ViewModels/CategoryPageViewModelTest.cs" Line="23" Column="1" />
+      <File FileName="TheChuck/ViewModels/CategoryPageViewModel.cs" Line="98" Column="1" />
+      <File FileName="TheChuckUnitTests/ViewModels/SearchPageViewModelTests.cs" Line="58" Column="1" />
+      <File FileName="TheChuck/ViewModels/SearchPageViewModel.cs" Line="1" Column="1" />
+      <File FileName="TheChuckUnitTests/ViewModels/FavouritePageViewModelTests.cs" Line="9" Column="73" />
+      <File FileName="TheChuck/ViewModels/FavouritePageViewModel.cs" Line="25" Column="34" />
+      <File FileName="TheChuck/Services/Favourite.cs" Line="14" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -20,13 +17,16 @@
           <Node name="TheChuck" expanded="True">
             <Node name="TheChuck" expanded="True">
               <Node name="Mocks" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="SearchPage.xaml" expanded="True" />
+              </Node>
               <Node name="Services" expanded="True" />
               <Node name="ViewModels" expanded="True" />
               <Node name="App.xaml" expanded="True" />
             </Node>
             <Node name="TheChuckUnitTests" expanded="True">
               <Node name="ViewModels" expanded="True">
-                <Node name="CategoryPageViewModelTest.cs" selected="True" />
+                <Node name="FavouritePageViewModelTests.cs" selected="True" />
               </Node>
             </Node>
           </Node>
@@ -34,10 +34,12 @@
       </Pad>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
         <State name="__root__">
-          <Node name="TheChuck" expanded="True" selected="True">
+          <Node name="TheChuck" expanded="True">
             <Node name="TheChuckUnitTests" expanded="True">
               <Node name="TheChuckUnitTests.ViewModels" expanded="True">
+                <Node name="CategoryPageViewModelTest" expanded="True" />
                 <Node name="MainPageViewModelTests" expanded="True" />
+                <Node name="SearchPageViewModelTests" expanded="True" />
               </Node>
             </Node>
           </Node>
@@ -45,7 +47,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.TheChuck.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.41845C85-B3B3-4173-8781-B885867B5CAC" />
+  <MonoDevelop.Ide.ItemProperties.TheChuck.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.193B6E8F-D76B-4D56-9AC7-C31A8B300437" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
