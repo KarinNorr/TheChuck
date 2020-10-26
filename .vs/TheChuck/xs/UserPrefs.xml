@@ -2,14 +2,13 @@
   <MonoDevelop.Ide.ItemProperties.TheChuck.Android PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
   <MonoDevelop.Ide.Workbench ActiveDocument="TheChuckUnitTests/ViewModels/FavouritePageViewModelTests.cs">
     <Files>
-      <File FileName="TheChuckUnitTests/ViewModels/MainPageViewModelTests.cs" Line="28" Column="10" />
-      <File FileName="TheChuckUnitTests/ViewModels/CategoryPageViewModelTest.cs" Line="23" Column="1" />
-      <File FileName="TheChuck/ViewModels/CategoryPageViewModel.cs" Line="98" Column="1" />
-      <File FileName="TheChuckUnitTests/ViewModels/SearchPageViewModelTests.cs" Line="58" Column="1" />
-      <File FileName="TheChuck/ViewModels/SearchPageViewModel.cs" Line="1" Column="1" />
-      <File FileName="TheChuckUnitTests/ViewModels/FavouritePageViewModelTests.cs" Line="9" Column="73" />
-      <File FileName="TheChuck/ViewModels/FavouritePageViewModel.cs" Line="25" Column="34" />
-      <File FileName="TheChuck/Services/Favourite.cs" Line="14" Column="1" />
+      <File FileName="TheChuckUnitTests/ViewModels/MainPageViewModelTests.cs" Line="23" Column="16" />
+      <File FileName="TheChuckUnitTests/ViewModels/CategoryPageViewModelTest.cs" />
+      <File FileName="TheChuck/ViewModels/CategoryPageViewModel.cs" />
+      <File FileName="TheChuck/ViewModels/SearchPageViewModel.cs" />
+      <File FileName="TheChuckUnitTests/ViewModels/FavouritePageViewModelTests.cs" Line="36" Column="1" />
+      <File FileName="TheChuck/ViewModels/FavouritePageViewModel.cs" />
+      <File FileName="TheChuck/Services/Favourite.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -27,19 +26,6 @@
             <Node name="TheChuckUnitTests" expanded="True">
               <Node name="ViewModels" expanded="True">
                 <Node name="FavouritePageViewModelTests.cs" selected="True" />
-              </Node>
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node name="TheChuck" expanded="True">
-            <Node name="TheChuckUnitTests" expanded="True">
-              <Node name="TheChuckUnitTests.ViewModels" expanded="True">
-                <Node name="CategoryPageViewModelTest" expanded="True" />
-                <Node name="MainPageViewModelTests" expanded="True" />
-                <Node name="SearchPageViewModelTests" expanded="True" />
               </Node>
             </Node>
           </Node>
